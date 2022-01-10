@@ -1,8 +1,10 @@
 ### Hi, I am Boshi Li, an App Developer and Data Scientist
 ----
 
-About Boshi Li
+About Boshi Li:
+
 Resume: https://www.cakeresume.com/boshi-lee
+
 Linkin: https://www.linkedin.com/in/boshi-li-b72836102/
 
 - 🔭 I’m currently working on [Hearting 心交](https://hearting.online/)
