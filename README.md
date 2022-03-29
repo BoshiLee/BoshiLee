@@ -1,4 +1,4 @@
-### Hi, I am Boshi Li, an App Developer and Data Scientist
+### Hi, I am Boshi Li, a Data Scientist
 ----
 
 About Boshi Li:
