@@ -18,7 +18,7 @@ Linkin: https://www.linkedin.com/in/boshi-li-b72836102/
 		2. [Deep Learning：用Python進行深度學習的基礎理論實作 -  ISBN：9789864764846](https://www.books.com.tw/products/0010761759)
 		3. [Deep learning深度學習必讀: Keras大神帶你用Python實作 -  ISBN：9789863125501](https://findbook.com.tw/9789863125501?msclkid=0f388f39af3e11eca90ea9f7e674befd)
 - 👯 Kaggle:
-	- [Titanic](https://www.kaggle.com/competitions/titanic/leaderboard?search=Boshi+Li#)
+	- [Titanic: 0.74641](https://www.kaggle.com/competitions/titanic/leaderboard?search=Boshi+Li#)
 
 - 🤔 I’m looking for a `Junior Data Scientist`  Job.
 - 📫 How to reach me: 
