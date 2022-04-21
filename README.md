@@ -19,7 +19,7 @@ Linkin: https://www.linkedin.com/in/boshi-li-b72836102/
 		3. [Deep learning深度學習必讀: Keras大神帶你用Python實作 -  ISBN：9789863125501](https://findbook.com.tw/9789863125501?msclkid=0f388f39af3e11eca90ea9f7e674befd)
 - 👯 Kaggle:
 	- [Titanic](https://www.kaggle.com/competitions/titanic/leaderboard?search=Boshi+Li#) Top 89%
-	- [Tabular Playground Series - Apr 2022: 0.551](https://www.kaggle.com/competitions/tabular-playground-series-apr-2022/leaderboard?search=Boshi+Li#) Top 90%
+	- [Tabular Playground Series - Apr 2022: 0.551](https://www.kaggle.com/competitions/tabular-playground-series-apr-2022/leaderboard?search=Boshi+Li#) Top 48%
 - 🤔 I’m looking for a `Data Scientist`  Job.
 - 📫 How to reach me: 
 	- Email: boshi.litw@gmail.com
